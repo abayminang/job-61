@@ -31,8 +31,8 @@ const RECIPIENT_NAME = "aaqillabyan";           // ← GANTI NAMA
    Lalu ganti judul dan nama artis di bawah ini.                  */
 const MUSIC_TRACKS = [
   {
-    title:  "Mesra-Mesraannya Kecil-Kecilan Dulu",             // ← GANTI JUDUL LAGU
-    artist: "Sal Priadi",                   // ← GANTI NAMA ARTIS
+    title:  "My love mine all mine",             // ← GANTI JUDUL LAGU
+    artist: "Mitsky",                   // ← GANTI NAMA ARTIS
     src:    "assets/music/song1.mp3",    //   (nama file mp3 — jangan diubah kecuali nama filenya beda)
     cover:  "assets/music/song1.jpeg",   //   (nama file cover — jangan diubah kecuali nama filenya beda)
     startTime: 0,                           // ← MULAI DARI DETIK KE BERAPA
